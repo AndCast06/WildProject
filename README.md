@@ -29,9 +29,9 @@
 ### 🚀 **Instalación**  
 
 1. Clona el repositorio:  
-   \`\`\`bash
+   \\\`\`\`bash
    git clone https://github.com/tu-usuario/wild-project.git
-   \`\`\`  
+   \\\`\`\`  
 2. Abre el proyecto en Unity.  
 3. Compila y ejecuta el juego desde el editor.  
 
@@ -58,5 +58,5 @@
 Este proyecto está bajo la licencia [-----].  
 
 ---
-
+EOF
 
