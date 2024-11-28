@@ -1,4 +1,3 @@
-cat <<EOF > README.md
 # 🗡️✨ **Wild Project** ✨🛡️  
 **Wild Project** es un emocionante juego de plataformas 2D creado en Unity. Sumérgete en la historia de un valiente caballero que emprende una épica aventura, enfrentando enemigos con espadas y poderosas magias en un mundo lleno de desafíos.
 
@@ -76,4 +75,4 @@ Este proyecto está bajo la licencia [Nombre de la licencia].
 
 - [Menciona a colaboradores o recursos utilizados]  
 - Inspiración: *(Opcional)*  
-EOF
+
