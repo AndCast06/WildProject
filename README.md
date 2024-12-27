@@ -52,7 +52,10 @@
 
 ### 📜 **Licencia**  
 
-Este proyecto está bajo la licencia [-----].  
+Este proyecto está bajo la licencia [GNU General Public License v2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html).  
+
+---
+
 
 ---
 
